@@ -1,1 +1,1 @@
-# C-_sample
+# C++_sample
